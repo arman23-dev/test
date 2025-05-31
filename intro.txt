@@ -1,3 +1,4 @@
 Hello, Welcome to github!
 git hub is a platform that is used for version
 skills of github plays a very important role in software world!
+git and github is not different
