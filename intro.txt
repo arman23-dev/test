@@ -2,3 +2,5 @@ Hello, Welcome to github!
 git hub is a platform that is used for version
 skills of github plays a very important role in software world!
 git is a software and github is websiter version og git but there functionality is totally same
+git and github is not different
+
